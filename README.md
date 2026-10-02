@@ -1,5 +1,4 @@
-# vlm-document-extraction
-Vision-Language Model system for document information extraction
+
 
 # Document Information Extraction using Vision-Language Models
 
